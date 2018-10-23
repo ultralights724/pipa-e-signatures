@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>pipa email signatures</title>
+    <title>Pipa Email Signatures</title>
   </head>
   <body>
     <?php
