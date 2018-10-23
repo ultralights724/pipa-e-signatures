@@ -38,11 +38,11 @@
 
                   ?>
               </a></p><?php endif; ?>
-              <a href="www.pipa.ai"><img src="https://www.dropbox.com/s/cg9ejhw1xqid2md/pipalogo.png?dl=1" alt="pipa.ai" height="40" style="margin-top: 24px;"></a>
+              <a href="https://www.pipa.ai"><img src="https://www.dropbox.com/s/cg9ejhw1xqid2md/pipalogo.png?dl=1" alt="pipa.ai" height="40" style="margin-top: 24px;"></a>
                 <p style="font-size: 12px; color: #f5f5f5;">
                   <a href="https://www.facebook.com/askPiPA" target="_blank" style="color: #333333; text-decoration: none;">Facebook</a> |
                   <a href="https://twitter.com/PiPAsays" target="_blank" style="color: #333333; text-decoration: none;">Twitter</a> |
-                  <a style="color: #f0626e; text-decoration: none; font-weight: bold;" href="www.pipa.ai" target="_blank">pipa.ai</a></p>
+                  <a style="color: #f0626e; text-decoration: none; font-weight: bold;" href="https://www.pipa.ai" target="_blank">pipa.ai</a></p>
             </td>
           </tr>
        </table>
