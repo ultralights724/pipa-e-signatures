@@ -38,7 +38,7 @@
 
                   ?>
               </a></p><?php endif; ?>
-              <a href="https://www.pipa.ai" target="_blank"><img src="https://www.dropbox.com/s/cg9ejhw1xqid2md/pipalogo.png?dl=1" alt="pipa.ai" height="40" style="margin-top: 24px;"></a>
+              <a href="https://www.pipa.ai" target="_blank"><img src="https://www.dropbox.com/s/crqem79sob2ia9w/pipalogocomp.png?dl=1" alt="pipa.ai" height="40" style="margin-top: 24px;"></a>
                 <p style="font-size: 12px; color: #f5f5f5;">
                   <a href="https://www.facebook.com/askPiPA" target="_blank" style="color: #333333; text-decoration: none;">Facebook</a> |
                   <a href="https://twitter.com/PiPAsays" target="_blank" style="color: #333333; text-decoration: none;">Twitter</a> |
