@@ -29,7 +29,7 @@
               <?php endif; ?>
               </p>
               <?php if(!empty($member->position)): ?><p style="margin: 0px; padding: 0; font-size: 14px; color: #6FD7E2;font-weight: 700; font-weight: bold;"><?php echo $member->position; ?></p><?php endif; ?>
-              <?php if(!empty($member->mobile)): ?><p style="margin-bottom: 0;padding: 0; font-size: 14px; color: #333333;"><a style="color: #333333; text-decoration: none;" href="tel:+44<?php echo $member->mobile; ?>">+44
+              <?php if(!empty($member->mobile)): ?><p style="margin-bottom: 0;padding: 0; font-size: 14px; color: #333333; font-weight: 500;"><a style="color: #333333; text-decoration: none;" href="tel:+44<?php echo $member->mobile; ?>">+44
                 <?php
                 $data_zero = substr($member->mobile, 0, 1);
                 $data_left = substr($member->mobile, 1, 4);
@@ -43,7 +43,7 @@
                   <a href="https://www.facebook.com/askPiPA" target="_blank" style="color: #333333; text-decoration: none;">Facebook</a> |
                   <a href="https://twitter.com/PiPAsays" target="_blank" style="color: #333333; text-decoration: none;">Twitter</a> |
                   <a style="color: #f0626e; text-decoration: none; font-weight: bold;" href="https://www.pipa.ai" target="_blank">pipa.ai</a>
-                  <p style="font-size: 10px; color: #C1BFBF" max-width: 200px>This message and any attachments are confidential and should only be read by the intended recipient. If you are not the intended recipient, please inform us by replying to this message, delete the message from your computer and destroy any copies. Any distribution or copying without prior permission is prohibited. This e-mail and any attachments are legally privileged.</p>                
+                  <p style="font-size: 10px; color: #C1BFBF; width: 300px">This message and any attachments are confidential and should only be read by the intended recipient. If you are not the intended recipient, please inform us by replying to this message, delete the message from your computer and destroy any copies. Any distribution or copying without prior permission is prohibited. This e-mail and any attachments are legally privileged.</p>                
               </p>
             </td>
           </tr>
